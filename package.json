@@ -1,10 +1,13 @@
 {
-  "name": "@username/gravitytestz1",
+  "name": "gravitytestz1",
   "version": "1.0.0",
   "description": "Teste de criacao de modulo em npm ",
   "main": "index.js",
   "scripts": {
     "test": "teste npm"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
   },
   "repository": {
     "type": "git",
