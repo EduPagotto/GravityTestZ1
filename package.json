@@ -1,0 +1,19 @@
+{
+  "name": "gravitytestz1",
+  "version": "1.0.0",
+  "description": "Teste de criacao de modulo em npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "teste npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduPagotto/GravityTestZ1.git"
+  },
+  "author": "Eduardo Pagotto <eduardo.pagotto@newspace.com.br> (https://github.com/edupagotto)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduPagotto/GravityTestZ1/issues"
+  },
+  "homepage": "https://github.com/EduPagotto/GravityTestZ1#readme"
+}
